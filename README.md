@@ -2,7 +2,7 @@ Login Form with Show Password Feature
 
 This is a simple login form built with HTML, CSS, and JavaScript. It includes features such as form validation, show/hide password, and local storage to remember the user's email.
 
-Features
+Features:
 
 Email Validation: Ensures the user enters a valid email format.
 
@@ -16,11 +16,11 @@ Loading Spinner: Shows a spinner while the login request is being processed.
 
 Mock API Call: Simulates an API call using fetch().
 
-Prerequisites
+Prerequisites:
 
 Ensure you have a modern web browser installed that supports HTML5, CSS3, and JavaScript ES6. You can run this project locally on your machine by following the steps below.
 
-Instructions
+Instructions:
 
 Clone the repository:
 
@@ -40,7 +40,7 @@ Open the index.html file in your web browser:
 
 For Windows: Double-click the index.html file.
 
-Running the Project
+Running the Project:-
 
 -Open index.html in any browser.
 
